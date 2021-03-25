@@ -1,0 +1,19 @@
+
+
+ body {
+   background-color: black;
+   color:white;
+ }
+
+ #horse-info {
+   /* visibility: hidden; */
+   color: white;
+ }
+ 
+ #horse {
+   cursor: pointer;
+ }
+
+ #question1-wrapper {
+   display: block;
+ }
